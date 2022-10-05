@@ -20,6 +20,4 @@ while (n>=2)
 {n--;
 if (tebak==nama) goto A;
 else cout<<"Maaf tebakanmu salah | Coba lagi ya...\nSisa anda mencoba "<<n<<" kali lagi";
-cout<<"\nPlayer 2:masukkan secret name yang akan kamu tebak:";cin>>tebak;	
-}cout<<"\nterimakasih telah bermain";
-}
+cout<<"\nPlayer 2:masukkan 
